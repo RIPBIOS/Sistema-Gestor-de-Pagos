@@ -1,1 +1,0 @@
-# Sistema-Gestor-de-Pagos
